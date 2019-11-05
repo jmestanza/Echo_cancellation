@@ -1,0 +1,12 @@
+-Hablar de porque usamos LMS
+-Hablar de lo de lamdba/10
+-Hablar de los problemas al implementar? 
+-Hacer gráfico con los w más representativos (que tienen mas potencia)
+-Decir cual es el criterio para definir el tamaño del filtro
+eso va de la mano de tener varias simulaciones y ver donde 
+cae la respuesta a 60dB
+-Hacer montecarlos? 
+-Entrar con una delta? (algo que dijo marc)
+-Grafico de J
+-Mostrar fotos de resultados de colab 
+tanto con NLMS como con FastBlockLMS
